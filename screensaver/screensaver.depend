@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608009578 source:d:\dev\gcc\screensaver\main.cpp
+	<iostream>
+	<Windows.h>
+
